@@ -18,4 +18,4 @@ Crea una web que pida, por medio de un prompt(), una frase al usuario y devuelva
 # **Diagrama de flujo**
 ### Descripcion
 
-![diagrama de flujo cifrado](assets/img/diagramaenblanco.png);
+![diagrama de flujo cifrado](assets/img/diagramaenblanco.png)
